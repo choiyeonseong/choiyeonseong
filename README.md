@@ -4,7 +4,7 @@
   
 <h3 align='center'>Languages</h3>
 <p align='center'>
-<a href="/choiyeonseong/StudyC.git" target="_blank"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/></a>
+<a href="https://github.com/choiyeonseong/StudyC.git" target="_blank"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/></a>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></br>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/></br>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
