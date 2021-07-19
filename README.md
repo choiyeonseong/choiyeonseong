@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=header&text=Hello%20World!&fontSize=50&animation=twinkling)
 
-<h3 align='center'> Hi there👋</h3>
   
 <h3 align='center'>Languages</h3>
 <p align='center'>
@@ -37,13 +36,11 @@
 <a href="https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads" target="_blank"><img alt="MSSQL" src="https://img.shields.io/badge/mssql-CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/></a>
 </p>
-  
-<p align='center'>
+
+  </br>
   
 [![My github stats](https://github-readme-stats.vercel.app/api?username=choiyeonseong)](https://github.com/choiyeonseong/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyeonseong&layout=compact)](https://github.com/choiyeonseong/github-readme-stats)
 
- </p>
 
 <!--
 **choiyeonseong/choiyeonseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
