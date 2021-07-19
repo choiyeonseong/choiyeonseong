@@ -14,6 +14,7 @@
 ### Frameworks and Libraries
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/> <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"/> <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/> <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white"/>
+<img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/>
 
 ### IDEs
 
@@ -39,7 +40,10 @@
 <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=choiyeonseong)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=choiyeonseong)](https://github.com/choiyeonseong/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyeonseong&layout=compact)](https://github.com/choiyeonseong/github-readme-stats)
+
 <!--
 **choiyeonseong/choiyeonseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
