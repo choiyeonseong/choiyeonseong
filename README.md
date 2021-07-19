@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=header&text=Hello%20World!&fontSize=50&animation=twinkling)
 
 <h3> Hi there👋</h3>
-
-<p align="center">
   
+
 <h3>Languages</h3> 
 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
@@ -19,7 +18,8 @@
 ### IDEs
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/> <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=green&labelColor=green"/>
+<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=eclipse&logoColor=black&color=white&labelColor=white"/>
 
 ### Version Control
 
@@ -27,8 +27,7 @@
 
 ### Databases
 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
-
+<img alt="MSSQL" src="https://img.shields.io/badge/mssql-CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/> 
 
 ### Operating System
 
@@ -39,7 +38,6 @@
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi"/>
 <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
 
-</p>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=choiyeonseong)](https://github.com/anuraghazra/github-readme-stats)
 <!--
