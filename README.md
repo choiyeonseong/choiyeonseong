@@ -40,7 +40,7 @@
 </br>
   
 <p align='center'> 
-  <a href="https://github.com/choiyeonseong/github-readme-stats">
+  <a href="https://github.com/choiyeonseong">
     <img src="https://github-readme-stats.vercel.app/api?username=choiyeonseong"/>
   </a>
 <p>
