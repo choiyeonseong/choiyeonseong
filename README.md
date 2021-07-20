@@ -40,9 +40,9 @@
 </br>
   
 <p align='center'> 
-  
-  [![My github stats](https://github-readme-stats.vercel.app/api?username=choiyeonseong)](https://github.com/choiyeonseong/github-readme-stats) 
-  
+  <a href="https://github.com/choiyeonseong/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=choiyeonseong"/>
+  </a>
 <p>
           
 <!--
