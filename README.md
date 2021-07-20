@@ -37,12 +37,12 @@
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/></a>
 </p>
 
-  </br>
+</br>
   
-<p align='center>
+<p align='center'> 
   
-[![My github stats](https://github-readme-stats.vercel.app/api?username=choiyeonseong)](https://github.com/choiyeonseong/github-readme-stats)
-
+  [![My github stats](https://github-readme-stats.vercel.app/api?username=choiyeonseong)](https://github.com/choiyeonseong/github-readme-stats) 
+  
 <p>
           
 <!--
